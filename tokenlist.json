@@ -1,34 +1,53 @@
 {
-  "name": "Somnex",
-  "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-Materials/refs/heads/main/logo/favicon.png",
+  "name": "weconomy Default",
+  "timestamp": "2025-08-26T07:44:37.332Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
   "keywords": [
-    "Somnex",
-    "defi"
+    "weconomy",
+    "default"
   ],
-  "timestamp": "2025-05-14T08:10:00.000+00:00",
   "tokens": [
     {
-      "chainId": 50312,
-      "address": "0x4A3BC48C156384f9564Fd65A53a2f3D534D8f2b7",
-      "name": "WSTT",
-      "symbol": "WSTT",
+      "chainId": 5031,
+      "address": "0x046EDe9564A72571df6F5e44d0405360c0f4dCab",
+      "name": "WSOMI",
+      "symbol": "WSOMI",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wstt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/wsomi.png"
     },
     {
-      "chainId": 50312,
-      "address": "0x0621c8C9Fc239980650487d2B36D35FE6BE1b727",
-      "name": "USDT.x",
-      "symbol": "USDT.x",
+      "chainId": 5031,
+      "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/weth.png"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x28bec7e30e6faee657a03e19bf1128aad7632a00",
+      "name": "USDC",
+      "symbol": "USDC.e",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/usdc.png"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x67B302E35Aef5EEE8c32D934F5856869EF428330",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/usdt.png"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }
