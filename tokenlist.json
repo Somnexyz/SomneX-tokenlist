@@ -20,7 +20,7 @@
       "symbol": "WSOMI",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/wsomi.png"
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png"
     },
     {
       "chainId": 5031,
@@ -29,7 +29,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/weth.png"
     },
     {
       "chainId": 5031,
@@ -38,7 +38,7 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdc.png"
     },
     {
       "chainId": 5031,
@@ -47,7 +47,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/refs/heads/feat/Somnex/assets/usdt.png"
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdt.png"
     }
   ]
 }
