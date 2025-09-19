@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://weconomy.network//assets/favicon-a1b0eefa.png",
@@ -21,15 +21,6 @@
       "decimals": 18,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/wsomi.png"
-    },
-    {
-      "chainId": 5031,
-      "address": "0x936Ab8C674bcb567CD5dEB85D8A216494704E9D8",
-      "name": "WETH",
-      "symbol": "WETH",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/weth.png"
     },
     {
       "chainId": 5031,
