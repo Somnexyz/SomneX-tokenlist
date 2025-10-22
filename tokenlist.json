@@ -40,14 +40,5 @@
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdt.png"
     },
-    {
-      "chainId": 5031,
-      "address": "0xb59ba7862855faf39c75d3297e9a9d08d15321e3",
-      "name": "SomniaPumpaz",
-      "symbol": "PUMPAZ",
-      "decimals": 18,
-      "tag": "Top",
-      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/pumpaz.png"
-    }
   ]
 }
