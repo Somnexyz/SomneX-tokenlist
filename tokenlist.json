@@ -39,6 +39,15 @@
       "decimals": 6,
       "tag": "Top",
       "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/usdt.png"
+    },
+    {
+      "chainId": 5031,
+      "address": "0x66dA8f12CEA987BF79F1c3b278cdAe741C1a1A75",
+      "name": "stSOMI",
+      "symbol": "stSOMI",
+      "decimals": 18,
+      "tag": "Top",
+      "logoURI": "https://raw.githubusercontent.com/Somnexyz/SomneX-tokenlist/refs/heads/main/assets/stsomi.png"
     }
   ]
 }
